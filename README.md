@@ -14,10 +14,17 @@ file.
 3.Run the corresponding file for the rule as specified below:-
 
 a. DN criteria deltaN.py
+
 b. DV criteria deltaV.py
+
 c. CDV criteria CDV.py
+
 d. PDN criteria bayesian wth N.py
+
 e. PDV criteria bayesian with U.py
+
 f. Multi-class classification using DN deltaN multiclas.py
+
 g. K Nearest Neighbor(binary) KNN.py
+
 h. K Nearest Neighbor(multi class) KNN multiclass.py
